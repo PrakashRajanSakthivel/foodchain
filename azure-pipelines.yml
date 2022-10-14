@@ -28,5 +28,5 @@ steps:
   inputs:  
       CopyRoot: /dist  
       Contents: '**'  
-      ArtifactName: angular-web-app 
+      ArtifactName: foodchain 
       ArtifactType: Container
