@@ -24,6 +24,8 @@ jobs:
       - name: npm install, build, and test
         run: |
           npm install
+          npm i @zxing/library
+          npm i @zxing/browser
           npm run build
 
       - name: Upload artifact for deployment job
