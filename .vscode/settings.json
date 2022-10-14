@@ -1,0 +1,9 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/22935abe-b70a-4d14-9ab8-26025c7cb2e0/AppServices/subscriptions/22935abe-b70a-4d14-9ab8-26025c7cb2e0/resourceGroups/mvrcmh2fSIrgp/providers/Microsoft.Web/sites/foodtrackerrcm",
+    "appService.deploySubpath": "."
+}
