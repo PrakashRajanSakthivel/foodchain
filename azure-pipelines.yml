@@ -19,5 +19,6 @@ steps:
     npm install -g @angular/cli
     npm install
     npm i @zxing/library
+    npm i @zxing/browser
     ng build
   displayName: 'npm install and build'
